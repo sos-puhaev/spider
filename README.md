@@ -1,4 +1,4 @@
-Name: Soslan Puhaev
+Name: Soslan Puhaev<br>
 E-mail: faceblog22@gmail.com
 -----------------------------
 
